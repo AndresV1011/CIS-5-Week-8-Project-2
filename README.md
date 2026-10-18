@@ -71,9 +71,13 @@ One file. One `main`. No `goto`. No `vector`. No function other than `main`. No 
 - Discussions (every week): first post Friday, replies Sunday
 - Late: course policy (−10%/day unless stated otherwise)
 
-## Rubric
+## Rubric (100)
 
-Graded on: it runs, the boilerplate is still there, the four lines are changed, the five counts add up to 30, each failing index gets an office-hours line, and the GitHub repo plus demo video are there.
+| Criterion | Pts |
+|-----------|----:|
+| Code submitted that does the work | 50 |
+| Video explanation | 50 |
+
 
 ## Getting started
 
