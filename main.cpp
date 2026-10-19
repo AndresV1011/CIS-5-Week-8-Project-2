@@ -41,7 +41,7 @@ int main() {
  int F = 0;
 
 for (int i = 0; i < N; i++){
-  if (score[i] >= 90){
+  if (scores[i] >= 90){
     A++;
   } else if (scores[i] >= 80){
     B++;
@@ -67,7 +67,7 @@ for (int i = 0; i < N; i++){
     if (scores[i] < 60){
       std::cout << "Students at index " << i << " needs to come to office hours." << "\n";
     }
-    i++
+    i++;
   }
   return 0;
 }
